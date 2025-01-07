@@ -73,10 +73,7 @@ public class TestCases {
                 System.out.println("Test Case 6 Failed: 'Received' text is not displayed.");
             }
 
-            // Test Case 7: Verify all data is passed to the URL
-            System.out.println("Test Case 7: Please inspect the network request in browser dev tools to verify the payload.");
-
-      
+              
             // Close the browser
             driver.quit();
         }
